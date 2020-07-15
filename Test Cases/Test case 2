@@ -1,0 +1,11 @@
+test case: [1,1,1,2,2,3]
+
+### Run code result Output:
+
+Your input
+[1,1,1,2,2,3]
+2
+Output
+[1,2]
+Expected
+[1,2]
